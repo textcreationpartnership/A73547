@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from Argeir of the proceedings of our royall fleete since their departure from England, and what happened betweene them, and the Turkish Callies vpon Christmas day last. To the tune of, King Henries going to Bolloigne.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73547</idno>
+            <idno type="STC">STC 353.5</idno>
+            <idno type="STC">ESTC S125156</idno>
+            <idno type="EEBO-CITATION">99900490</idno>
+            <idno type="PROQUEST">99900490</idno>
+            <idno type="VID">173323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2035:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from Argeir of the proceedings of our royall fleete since their departure from England, and what happened betweene them, and the Turkish Callies vpon Christmas day last. To the tune of, King Henries going to Bolloigne.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>G. Purslowe,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Verse - "Gentlemen, if you will heare".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Poetry --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Great Britain --  Foreign relations --  Turkey --  Early works to 1800.</term>
+               <term>Turkey --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:173323:1" rendition="simple:additions"/>
+            <head>
+               <hi>Newes</hi> from <hi>Argeir,</hi> Of the proceedings of our Royall Fleete ſince their depar<g ref="char:EOLhyphen"/>ture from <hi>England,</hi> and what happened betweene them, and the Turkiſh Callies vpon Chriſtmas day laſt.</head>
+            <opener>To the tune of, <hi>King Henries going to Bolloigne.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of a sea-battle between two ships or gallies, one flying the flag of Saint George, the other flying flags with a crescent on each, and crewed by 'Turks' or Muslim men wearing turbans</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>GEntlemen, if you will heare</l>
+               <l>Noble tidings from <hi>Argeir,</hi>
+               </l>
+               <l>our worthy and our famous Engliſh Fléete,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd your eares a while to me,</l>
+               <l>And you ſhall heare how gallantly,</l>
+               <l>our royall Nauy with the Turkes did meete.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſt, you muſt vnderſtand,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ouided from faire England,</l>
+               <l>our well approued Men of Warre did goe,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>auely manag'd to the Sea,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their luſty bold a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ray,</l>
+               <l>the valiant hearts of Engliſhmen to ſhew.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ong the coaſts of <hi>Germany,</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <hi>Portugall</hi> and <hi>Barbary,</hi>
+               </l>
+               <l>through the <hi>Straites,</hi> into the Turkiſh land,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Engliſh Nauy fayled on,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t found no prize to worke vpon,</l>
+               <l>nor any Ships that durſt againſt them ſtand,</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntill that in Nouember,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wee may well remember,</l>
+               <l>we did arriue and lie before <hi>Argeir;</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hilſt we there at Anchor lay,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>arefull viſions on the Sea,</l>
+               <l>did from a black and bloody Moone appeare.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Moone ſo wanne and duſky,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich is the armes of Turky,</l>
+               <l>there ſuffered ſuch a black eclipſed vale,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith which the face of all the Sky,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as darkned ouer ſodainly,</l>
+               <l>with pitchy clouds all bloody, black, and pale.</l>
+            </lg>
+            <lg>
+               <l>This, in the Towne of <hi>Argeir,</hi>
+               </l>
+               <l>Rumor'd out a ſudden feare</l>
+               <l>amongſt the Turkes to ſee ſo ſtrange a ſigne</l>
+               <l>As though this black Ecclipſe did ſhow,</l>
+               <l>To that Towne ſome following woe,</l>
+               <l>ſo fearfull ſhew'd the darkned Moone y<hi rend="sup">t</hi> night.</l>
+            </lg>
+            <lg>
+               <l>But when the Sunnes adorning</l>
+               <l>Gaue light vnto the Morning,</l>
+               <l>a Pinneſſe came vnto our Engliſh Fleete,</l>
+               <l>To know the cauſe and reaſon why</l>
+               <l>They did ſo neere at Anchor lye,</l>
+               <l>whom they with courteſie did kindly greete</l>
+            </lg>
+            <lg>
+               <l>And ſaid, they lay for ſhelter</l>
+               <l>There, vnder winde and weather,</l>
+               <l>and thervpon their Flags of truce hang forth</l>
+               <l>Which cauſ'd ſome Baſhawes come aboord,</l>
+               <l>And to Lord Generall afford</l>
+               <l>ſuch néedful things as was to the<g ref="char:cmbAbbrStroke">̄</g> much worth</l>
+            </lg>
+            <lg>
+               <l>And to preuent all dangers,</l>
+               <l>Thy proued friendly ſtrangers,</l>
+               <l>and brought aboord ſome forty fatted ſheepe,</l>
+               <l>Lyons, Leopards, and ſuch things,</l>
+               <l>As are preſents fit for Kings,</l>
+               <l>themſelues in peace and ſafety to keepe.</l>
+            </lg>
+            <lg>
+               <l>Young Apes, with Cat-a-mountaines,</l>
+               <l>Freſh water from their Fountaines,</l>
+               <l>with Ruſke in barrels, &amp; ſuch Turkiſh foode,</l>
+               <l>As Hogſheds fild with wine and Beere</l>
+               <l>With ſuch like things thy brought in there,</l>
+               <l>to ſaue their Towne, and doe our Nauy good,</l>
+            </lg>
+            <div type="part">
+               <ab>
+                  <gap reason="missing" resp="#OXF" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+                  <pb facs="tcp:173323:2" rendition="simple:additions"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </ab>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
